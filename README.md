@@ -13,6 +13,7 @@ To get started with Celery Executor, follow these simple steps:
 
 
 
+
 ![Celery Executor Preview](/assets/maanvilro.gif)
 
 ## Table of Contents
